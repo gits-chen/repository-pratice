@@ -35,6 +35,5 @@ int main()
 	enum SEX nnnn = MALE;//此处定义了名为nnnn的常量的值
 	//enum SEX nnnn = FEMALE;//常量nnnn的值不可再定义
 	printf("%d\n", nnnn);//枚举常量的值自前到后分别为0,1,2……
-
 	return 0;
 }
