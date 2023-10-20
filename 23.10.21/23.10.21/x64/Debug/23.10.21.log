@@ -1,0 +1,11 @@
+﻿  23.10.21.cpp
+D:\a project\23.10.21\23.10.21\23.10.21.cpp(5,9): warning C4477: “printf”: 格式字符串“%llu”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“unsigned int”
+D:\a project\23.10.21\23.10.21\23.10.21.cpp(5,9): message : 请考虑在格式字符串中使用“%u”
+D:\a project\23.10.21\23.10.21\23.10.21.cpp(5,9): message : 请考虑在格式字符串中使用“%I32u”
+D:\a project\23.10.21\23.10.21\23.10.21.cpp(5,9): warning C4477: “printf”: 格式字符串“%llu”需要类型“unsigned __int64”的参数，但可变参数 2 拥有了类型“unsigned int”
+D:\a project\23.10.21\23.10.21\23.10.21.cpp(5,9): message : 请考虑在格式字符串中使用“%u”
+D:\a project\23.10.21\23.10.21\23.10.21.cpp(5,9): message : 请考虑在格式字符串中使用“%I32u”
+D:\a project\23.10.21\23.10.21\23.10.21.cpp(5,9): warning C4477: “printf”: 格式字符串“%llu”需要类型“unsigned __int64”的参数，但可变参数 3 拥有了类型“unsigned int”
+D:\a project\23.10.21\23.10.21\23.10.21.cpp(5,9): message : 请考虑在格式字符串中使用“%u”
+D:\a project\23.10.21\23.10.21\23.10.21.cpp(5,9): message : 请考虑在格式字符串中使用“%I32u”
+  23.10.21.vcxproj -> D:\a project\23.10.21\x64\Debug\23.10.21.exe
